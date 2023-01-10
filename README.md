@@ -7,9 +7,9 @@ The accepted manuscript in TGRS.
 
 Scheme 1
 ----------------------------------------
-![image]
+![image](https://github.com/zhouweilian1904/TGRS_1_Multiscanning_RNN/blob/main/whole%20framework.jpg)
 
 Scheme 2
 ----------------------------------------
-![image]
+![image](https://github.com/zhouweilian1904/TGRS_1_Multiscanning_RNN/blob/main/whole%20framework%202.jpg)
 
