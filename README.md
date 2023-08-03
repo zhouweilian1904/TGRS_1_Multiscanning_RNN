@@ -13,3 +13,5 @@ Scheme 2
 ----------------------------------------
 ![image](https://github.com/zhouweilian1904/TGRS_1_Multiscanning_RNN/blob/main/whole%20framework%202.jpg)
 
+The demo of scheme 1 can be checked in *model.py*, named zhouEightDRNN_kamata_LSTM.
+
